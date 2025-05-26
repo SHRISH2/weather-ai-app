@@ -37,7 +37,7 @@ It allows users to:
 ### 🔧 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-ai-app.git
+git clone https://github.com/SHRISH2/weather-ai-app.git
 cd weather-ai-app
 
 📦 2. Install Dependencies
