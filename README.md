@@ -80,7 +80,7 @@ npm start
 Open browser at: http://localhost:3000
 
 📷 Demo Preview
-[Include video demo link here once recorded]
+https://youtu.be/MVbYvlDTyoE?si=rFxpPERgQoxCSXsh
 
 👤 Author
 Shrish Rahav G
